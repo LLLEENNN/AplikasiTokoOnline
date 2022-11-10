@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000F97</color>
+    <color name="colorPrimaryDark">#001F6E</color>
+    <color name="colorAccent">#03ac0e</color>
+
+    <color name="colorPrimarySoft">#F44336</color>
+
+    <color name="orange">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="dark">#121931</color>
+    <color name="biru">#FF5722</color>
+
+    <color name="menungu">#FF9800</color>
+    <color name="selesai">#4CAF50</color>
+    <color name="batal">#E91E1E</color>
+
+
+    <!--    Typografi Tokopedia-->
+    <color name="greenColor">#03ac0e</color>
+    <color name="greyColor">#fafafa</color>
+    <color name="greyColorTwo">#f3f4f5</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="iconColor">#525a67</color>
+    <color name="backgroundChart">#e5e7e9</color>
+    <color name="shimmerColor">#eeeeee</color>
+    <color name="backgroundStart">#e3fdfa</color>
+    <color name="bakgroundEnd">#e8fef6</color>
+
+</resources>

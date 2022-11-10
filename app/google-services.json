@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371211377409",
+    "project_id": "elektronik",
+    "storage_bucket": "elektronik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371211377409:android:d60048d7cb89ee5c03d900",
+        "android_client_info": {
+          "package_name": "com.anjati.elektronik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371211377409-clo245f58ivtt1drbfqt5m39j7k14adg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anjati.elektronik",
+            "certificate_hash": "1056b97fe366f49cc4f2bfec399c46bf5e093594"
+          }
+        },
+        {
+          "client_id": "371211377409-5q2oqvanh9051il6o0q3ak9htgdju0a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3R7Qi5wdk7E7igPCOYO946RgJLH3pAPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371211377409-5q2oqvanh9051il6o0q3ak9htgdju0a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
